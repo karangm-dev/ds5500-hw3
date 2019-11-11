@@ -67,6 +67,23 @@ I chose 'ALL_MTH00PCTPROF_1516' to unblur. The column values has one of the foll
 
 ***Choose which school districts will have their funding cut and how this will be done. (You should produce a table of LEA IDs and the dollar amount by which their federal funding will be cut – you do not need print the entire table.)***
 
+```python
+ 15 percent of federal budget is: [8.3404113e+09]
+ 
+         LEAID                               NAME    cut_amount
+6230   2313590         Westmanland Public Schools  4.686386e+02
+7027   2601042                 Branch Line School  4.686386e+02
+6794   2600121       Honey Creek Community School  9.372771e+02
+727     400931                ECA - Arizona  Inc.  9.372771e+02
+391     400278  Deer Valley Charter Schools  Inc.  1.405916e+03
+...        ...                                ...           ...
+7232   2612000       Detroit City School District  9.087136e+07
+15635  4700148                      Shelby County  9.961944e+07
+15038  4218990               Philadelphia City SD  1.271740e+08
+9784   3200060       CLARK COUNTY SCHOOL DISTRICT  1.301072e+08
+1904    622710                Los Angeles Unified  5.114721e+08
+```
+
 Philadelphia City SD, CLARK COUNTY SCHOOL DISTRICT & Los Angeles Unified will have the highest cut.
 
 ### Problem 5
