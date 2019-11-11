@@ -13,12 +13,14 @@ These datasets can be linked based on the LEA IDs.
 ### Problem 1¶
 **Import and explore the district-level fiscal data from 2015-16. Rank and visualize the states that take in the most federal funding (revenue). Which states spend the most federal funding per student?**
 
-![alt text][logo_1_1]
+![alt text][logo_1_1] 
+
 [logo_1_1]: https://github.com/karangm-dev/ds5500-hw3/blob/master/output/1_1.png "Fig: Federal Funding by States"
 
 California, Texas and New York are the states which receives highest federal revenue.
 
 ![alt text][logo_1_2]
+
 [logo_1_2]: https://github.com/karangm-dev/ds5500-hw3/blob/master/output/1_2.png "Fig: Per Student federal expenditure by state"
 
 Georgia, Florida and Hawaii are the states which has high federal expenditure per student
@@ -27,11 +29,13 @@ Georgia, Florida and Hawaii are the states which has high federal expenditure pe
 **Visualize the relationship between school districts’ total revenue and expenditures. Which states have the most debt per student?**
 
 ![alt text][logo_2_1]
+
 [logo_2_1]: https://github.com/karangm-dev/ds5500-hw3/blob/master/output/2_1.png "Fig: Revenue vs Expenditure by district"
 
 Higher the revenue, higher the expenditure.
 
 ![alt text][logo_2_2]
+
 [logo_2_2]: https://github.com/karangm-dev/ds5500-hw3/blob/master/output/2_2.png "Fig: Debt per student"
 
 To calculate the debt, long and short term debt at the end of the fiscal year were considered.
@@ -54,7 +58,8 @@ I chose 'ALL_MTH00PCTPROF_1516' to unblur. The column values has one of the foll
 * Symbols (PS - Value suppresed to protect student privacy) - replaced with a sample between 0 and 100
 
 ![alt text][logo_3_1]
-[logo_2_2]: https://github.com/karangm-dev/ds5500-hw3/blob/master/output/3_1.png "Fig: Distribution of ALL_MTH00PCTPROF_1516"
+
+[logo_3_1]: https://github.com/karangm-dev/ds5500-hw3/blob/master/output/3_1.png "Fig: Distribution of ALL_MTH00PCTPROF_1516"
 
 
 ### Problem 4
